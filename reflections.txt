@@ -1,0 +1,10 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+ 
+ * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here! i learned few tags such as image tag,paragraph tag,heading tag,del tag,underline tag,In font tag attributes like font size color,we can use strong instead of bold tag ,hr tag,alt attribute in image tag and many other tags...It has been easy learning for me but when i m makes progress its getting little bit tough but i can solve the problems...when it ask to submit code for quiz i  got little bit frustrate because i m copying all my code through sublime text 3 after that i get to know that i have submit code quiz but i m enjoying  
